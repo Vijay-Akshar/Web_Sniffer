@@ -95,3 +95,4 @@ Pull requests and suggestions are welcome to improve functionality and efficienc
 ## License
 This project is open-source and available under the MIT License.
 
+(For research purposes only)
