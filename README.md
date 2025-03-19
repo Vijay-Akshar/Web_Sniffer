@@ -8,6 +8,8 @@ A Python-based network reconnaissance tool that scans devices on a local network
 - Reverse DNS Lookup: Retrieves hostnames for identified IP addresses.
 - Scan Logging: Saves discovered devices in a structured log file.
 
+Keep in mind, we have to change network range to your IPv4 address before running the program.
+For example if your IPv4 address is "10.157.186.112" then change the network range in the main function to "10.157.186.0/24"
 ---
 
 ## How It Works
